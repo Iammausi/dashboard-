@@ -1,2 +1,2 @@
 # dashboard-
-My first nextjs dashboard.
+My nextjs dashboard.
